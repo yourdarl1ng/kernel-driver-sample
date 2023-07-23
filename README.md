@@ -14,4 +14,6 @@ Please make an entry point in the solution settings, name it whatever you want b
 * MSVC v143 - VS 2022 C++ x64/x86 build tools (Latest)
 * MSVC v143 - VS 2022 C++ x64/x86 Spectre-mitigated libs (Latest)
 * Windows 11, version 22H2 SDK
+
+
 Everything can be found here https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk
