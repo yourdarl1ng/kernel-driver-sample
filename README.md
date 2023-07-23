@@ -2,7 +2,7 @@
 Very simple kernel driver to start off your kernel development.
 Please make an entry point in the solution settings, name it whatever you want but change it in the code so it matches!
 
-#Requirements
+# Requirements
 * Visual Studio 2022
 * WDK(Windows Driver Kit)
 * MSVC v143 - VS 2022 C++ Arm build tools (Latest)
